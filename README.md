@@ -38,7 +38,7 @@ OpenID Connect (OIDC) — это протокол аутентификации, 
 - Клонируйте репозиторий
 
 ```bash
-git clone repo.git
+git clone https://github.com/komarovps/onec-authelia.git
 cd onec-authelia
 ```
 
