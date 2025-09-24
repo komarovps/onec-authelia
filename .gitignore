@@ -1,0 +1,4 @@
+authelia/secrets/*
+
+!**/.gitkeep
+!**/README.md
