@@ -485,3 +485,4 @@ identity_providers:
 - [ИТС. Документация по настройке OpenId Connect в 1С:Фреш](https://its.1c.ru/db/fresh#content:19956766:hdoc:issogl1_h1e1l9ae)
 - [Authelia. OpenId Connect](https://www.authelia.com/configuration/identity-providers/openid-connect)
 - [Authelia. Настройка NPM](https://www.authelia.com/integration/proxies/nginx-proxy-manager/)
+- [Тонкости авторизации: обзор технологии OAuth 2.0](https://habr.com/ru/companies/dododev/articles/520046/)
